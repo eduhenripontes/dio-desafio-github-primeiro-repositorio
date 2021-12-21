@@ -1,0 +1,21 @@
+## Links Úteis
+
+### Download do Git:
+https://git-scm.com/downloads
+
+Git Bash - terminal estendido para otimizar o uso do Git e é possível fazer o push para o GitHub
+
+### Download do Intellij
+https://www.jetbrains.com/pt-br/idea/
+
+IDE simples e com bastante recurso para facilitar o trabalho na hora de montar um código
+
+### Download do Eclipse
+https://www.eclipse.org/downloads/
+
+Eclipse - IDE bastante usada por desenvolvedores. 
+
+### Instalação do Java
+https://www.cursoemvideo.com/
+
+Acessar o curso básico de JAVA que o professor ensina o passo a passo de como instalar o Java. Lembrando que o curso é de 2015, então é importante verificar a versão mais nova. Pegar a LTS, que tem um suporte contínuo.
